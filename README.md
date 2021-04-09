@@ -9,10 +9,10 @@ The trial recruited 25 infants born by CS and randomised them 1:1 to receive a 3
 Shotgun metagenomics was performed on a total of 116 samples. This included 45 infant stool samples collected at 1 month of age, 46 infant stool samples collected at 3 months of age, and 25 maternal vaginal samples (from CS mothers).
 
 This repository contains:
-	1. The data processing script (based on bioBakery workflows)
-	2. The MetaPhlAn2 output table (taxonomy relative abundance profiles)
-	3. The HUMAnN2 output tables (gene families, MetaCyc pathways, pathway coverage)
-	4. The SNP haplotypes generated from StrainPhlAn
-	5. Sample metadata (no clinical data included)
+1. The data processing script (based on bioBakery workflows)
+2. The MetaPhlAn2 output table (taxonomy relative abundance profiles)
+3. The HUMAnN2 output tables (gene families, MetaCyc pathways, pathway coverage)
+4. The SNP haplotypes generated from StrainPhlAn
+5. Sample metadata (no clinical data included)
 
 
